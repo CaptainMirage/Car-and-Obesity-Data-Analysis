@@ -23,7 +23,8 @@ i got the database from this repo :
 
 ## How To Use
 
-Download the repository and run `library installer.cmd` to install required packages.
+- Download the repository and run `library installer.cmd` to install required packages.
+- run `main.py` file (python 3.13+ recommended for faster compiling)
 
 if the code says it failed to get the files, check if the repo is still there, cant be bothered to put a check for that
 
